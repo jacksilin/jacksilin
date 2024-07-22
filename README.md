@@ -23,5 +23,13 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jacksilin&" alt="jacksilin" /></p>
 
+## Projects
 
+### Project 1: Diet Guide
+
+(https://github.com/sharansuzn/tink-her-hack)
+
+### Project 2: Running GenAI on Intel AI laptops and Simple LLM Interference on CPU and fine-tuning of LLM models using Intel® OpenVINO™
+
+(https://github.com/23Jyo/SiliconSquad.git)
 
